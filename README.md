@@ -15,4 +15,4 @@ Built an interactive Power BI dashboard to analyze credit card customer behavior
 • How does marital status impact spending?
 • Does education level influence revenue?
 
--Dashboard Interaction<a herf="https://github.com/mnh8055/Credit-Card-Customer-Analysis-Dashboard/blob/main/Credit%20Card%20Customer%20Analysis%20Dashboard.PNG">View Dashboard</a>
+-Dashboard Interaction<a herf="https://github.com/mnh8055/Credit-Card-Customer-Analysis-Dashboard/blob/main/Credit%20Card%20Customer%20Analysis%20Dashboard.PNG"> View Dashboard</a>
