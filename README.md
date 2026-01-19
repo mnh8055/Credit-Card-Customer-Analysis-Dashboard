@@ -43,3 +43,10 @@ Built an interactive Power BI dashboard to analyze credit card customer behavior
 ## Final Conclusion
 
 This project provides a comprehensive analysis of credit card customer behavior using interactive Power BI dashboards. By analyzing revenue, transactions, and customer demographics, the dashboard helps identify high-value customer segments and key revenue drivers. The insights generated can support data-driven decision-making, customer targeting, and revenue optimization strategies for financial institutions.
+
+## Tools Used
+- Power BI  
+- DAX  
+- Excel / CSV  
+- GitHub  
+
