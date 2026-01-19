@@ -29,6 +29,7 @@ Built an interactive Power BI dashboard to analyze credit card customer behavior
   
 ## Dashboard
 <img width="2366" height="1341" alt="Credit Card Customer Analysis Dashboard" src="https://github.com/user-attachments/assets/5b47f3d9-14dc-4465-a643-8ed6176bc431" />
+
 ## Project Insights
 
 - Male customers contribute slightly higher revenue compared to female customers.
